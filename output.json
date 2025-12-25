@@ -1,0 +1,44 @@
+[
+  {
+    "module": "Installation",
+    "Description": "Documentation related to Installation.",
+    "Submodules": {
+      "Get more help": "Details about Get more help."
+    }
+  },
+  {
+    "module": "Forums",
+    "Description": "Documentation related to Forums.",
+    "Submodules": {
+      "Themes & Plugins": "Details about Themes & Plugins.",
+      "More resources": "Details about More resources.",
+      "Forums": "Details about Forums.",
+      "Topics": "Details about Topics."
+    }
+  },
+  {
+    "module": "Publishing",
+    "Description": "Documentation related to Publishing.",
+    "Submodules": {
+      "Get more help": "Details about Get more help."
+    }
+  },
+  {
+    "module": "About WordPress",
+    "Description": "Documentation related to About WordPress.",
+    "Submodules": {
+      "Get more help": "Details about Get more help."
+    }
+  },
+  {
+    "module": "Documentation",
+    "Description": "Documentation related to Documentation.",
+    "Submodules": {
+      "Get more help": "Details about Get more help.",
+      "Support guides": "Details about Support guides.",
+      "Customization": "Details about Customization.",
+      "Technical guides": "Details about Technical guides.",
+      "WordPress overview": "Details about WordPress overview."
+    }
+  }
+]
